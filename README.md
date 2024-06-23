@@ -11,9 +11,9 @@
   </p>
 
 Puedes encontrarme: 
-  - <a href="https://adrianhdez.tech/" target="_blank">Mi sitio</a>
-  - <a href="https://www.instagram.com/adrianh_2_" target="_blank">Instagram</a>
-  - <a href="https://x.com/AdrianH_2" target="_blank">Twitter</a>
+  - [Mi sitio](https://adrianhdez.tech/)
+  - [Instagram](https://www.instagram.com/adrianh_2_)
+  - [Twitter](https://x.com/AdrianH_2)
     
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
