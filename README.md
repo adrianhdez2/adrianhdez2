@@ -2,7 +2,7 @@
   <h1>¡Hola! Soy Adrián Hdez. 👋🏽</h1>
 
   <p align="left">
-    😄 Colaboro como desarrollador Web y de aplicaciones en el laboratorio de desarrollo de Apps de la División Académica de Ciencias y Tecnologías de la Información en la Universidad Juárez Autonóma de Tabasco
+    😄 Colaboro como desarrollador Web y de aplicaciones en <a href="https://github.com/X-devlab">el laboratorio de desarrollo de Apps</a> de la División Académica de Ciencias y Tecnologías de la Información en la Universidad Juárez Autonóma de Tabasco
     <br>
     <br>
     🎓 Estudié ingenieria en Informática Administrativa en la Universidad Juárez Autonóma de Tabasco
