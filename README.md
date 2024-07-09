@@ -10,28 +10,12 @@
     💻 Me encanta escribir código y aprender cosas al respecto.
   </p>
 
-Puedes encontrarme: 
-  - [Mi sitio](https://adrianhdez.tech/)
-  - [Instagram](https://www.instagram.com/adrianh_2_)
-  - [Twitter](https://x.com/AdrianH_2)
+  #### Redes sociales: 
+  [![](https://img.shields.io/badge/adrianhdez-ea580c?style=for-the-badge&logo=About.me&logoColor=white)](https://adrianhdez.tech/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianh2/)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/adrianh_2_)
+  [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AdrianH_2)
     
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhdez2&title_color=2D93F8&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=162D55&hide_border=false&size_weight=0.5&count_weight=0.5" />
-  </a>
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhdez2&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </div>
-
-<!--
-**adrianhdez2/adrianhdez2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
