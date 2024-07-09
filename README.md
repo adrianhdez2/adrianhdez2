@@ -6,7 +6,7 @@
     🚀 Colaboro como desarrollador Web y de aplicaciones en <a href="https://github.com/X-devlab">laboratorio de desarrollo de Apps</a> de la División Académica de Ciencias y Tecnologías de la Información en la Universidad Juárez Autonóma de Tabasco.
     <br>
     <br>
-    🎓 Estudié ingenieria en Informática Administrativa en la Universidad Juárez Autonóma de Tabasco.
+    🎓 Estudié ingenieria en informática administrativa en la Universidad Juárez Autonóma de Tabasco.
     <br>
     💻 Me encanta escribir código y aprender cosas al respecto.
   </p>
