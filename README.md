@@ -13,7 +13,7 @@
 
   
   ### Habilidades 🛠
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,astro,react,tailwind,bootstrap,figma,git,vite,nodejs,unity,mysql&perline=12)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,astro,react,tailwind,bootstrap,figma,git,vite,nodejs,unity,mysql)](https://skillicons.dev)
 
   ---
 
