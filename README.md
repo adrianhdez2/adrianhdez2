@@ -11,6 +11,12 @@
     💻 Me encanta escribir código y aprender cosas al respecto.
   </p>
 
+  
+  ### Habilidades 🛠
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,astro,react,tailwind,bootstrap,figma,git,vite,nodejs,unity,mysql&perline=12)](https://skillicons.dev)
+
+  ---
+
   #### Redes sociales: 
   [![Website](https://img.shields.io/badge/adrianhdez-ea580c?style=for-the-badge&logo=About.me&logoColor=white)](https://adrianhdez.tech/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianh2/)
