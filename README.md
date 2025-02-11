@@ -18,7 +18,7 @@
   ---
 
   #### Redes sociales: 
-  [![Website](https://img.shields.io/badge/adrianhdez-ea580c?style=for-the-badge&logo=About.me&logoColor=white)](https://adrianhdez.tech/)
+  [![Website](https://img.shields.io/badge/adrianhdez-ea580c?style=for-the-badge&logo=About.me&logoColor=white)](https://adrianhdez.me/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianh2/)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/adrianh_2_)
   [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AdrianH_2)
