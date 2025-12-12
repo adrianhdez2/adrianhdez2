@@ -29,7 +29,7 @@
 
   ---
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhdez2&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianhdez2&size_weight=0.0005&count_weight=0.3&langs_count=6&layout=compact&theme=vision-friendly-dark)](https://github.com/adrianhdez2)
 
   
 </div>
